@@ -16,7 +16,7 @@ Learn about the core functions of Jenkins, progressing from intermediate to more
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Follow any additional instructions in the README file for each lesson.
 
-### Instructor
+### Instructor ###
 
 Michael Jenkins 
                             
